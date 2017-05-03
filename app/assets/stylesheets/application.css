@@ -16,17 +16,9 @@
 
 body {
   text-align: center;
-  font-family: "helvetica";
 }
 
 .author {
   color: grey;
 }
 
-.btn {
-  text-decoration: none;
-  background-color: blue;
-  padding: 5px;
-  color: white;
-
-}
